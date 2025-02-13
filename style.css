@@ -425,3 +425,47 @@ span{
     margin: 20px;
 }
 
+#Contact{
+    min-height: 100vh;
+}
+
+
+.Contact h3{
+    margin-top: 4rem;
+    font-size: 3.5rem;
+    text-shadow: 0 0 25px var(--main-color);
+    text-decoration: underline;
+    padding-top: 14rem;
+    padding-left: 12%;
+}
+
+.Contact form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem auto;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.Contact form .input-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Contact form .input-box input,.contact form textarea{
+    width: 100%;
+    padding: 2rem;
+    font: 1.8rem;
+    color: var(--text-color);
+    background: var(--bg-color);
+    border-radius: 2rem;
+    border: 2px solid var(--main-color);
+    margin: 1.5rem 0;
+    resize: none;
+}
+
+.contact form .btn{
+    margin-top: 2rem;
+}
