@@ -1,15 +1,20 @@
-This is my personal website using Github Pages!
-<!--
-**hannphm/hannphm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **This is my personal website for CMPT 276!**
 
-Here are some ideas to get you started:
+Welcome to my personal website, it was deployed through github pages and you can view it here -> https://hannphm.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Features:
+- Animations
+- Interactive Communication
+
+# Tech Stack:
+- Frontend: HTML, CSS
+- Deployment: Github Pages
+
+# License:
+- The Project is Licensed under MIT license, learn more here [License Page](LICENSE)
+- My reasons for this license is that I do not have any major restrictions on who can use and access my code
+
+# Contact:
+- Portfolio: [Link to Portfolio](https://github.com/hannphm/hannphm.github.io)
+- Email: hpa86@sfu.ca
+- LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/han-pham-55a502277/)
