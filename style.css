@@ -281,6 +281,7 @@ span{
     margin-top: 1rem;
     font-size: 3.5rem;
     text-shadow: 0 0 25px var(--main-color);
+    text-decoration: underline;
 }
 
 .card-container{
